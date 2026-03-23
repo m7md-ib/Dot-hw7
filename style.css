@@ -5,7 +5,9 @@
   font-family: Arial, sans-serif;
   scroll-behavior: smooth;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 /*
     ========================
     SECTION 1 - Home
